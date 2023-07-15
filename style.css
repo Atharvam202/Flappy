@@ -1,0 +1,14 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    max-height: 600px;
+}
+
+#board {
+    /* background-color: skyblue; */
+    background-image: url("./flappybirdbg.gif");
+    background-repeat: no-repeat;
+    background-size: 1140px;
+    
+
+}
